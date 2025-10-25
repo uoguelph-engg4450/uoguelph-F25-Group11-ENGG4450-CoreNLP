@@ -138,12 +138,12 @@ Visit [http://localhost:9000](http://localhost:9000) in your web browser to conf
 ### Repository and Cloning Information
 
 Official Group 11 Repository:  
-[https://github.com/MarkusRoyikTurner/F25-Group11-ENGG4450-CoreNLP](https://github.com/MarkusRoyikTurner/F25-Group11-ENGG4450-CoreNLP)
+[[https://github.com/MarkusRoyikTurner/F25-Group11-ENGG4450-CoreNLP](https://github.com/uoguelph-engg4450/uoguelph-F25-Group11-ENGG4450-CoreNLP)](https://github.com/uoguelph-engg4450/uoguelph-F25-Group11-ENGG4450-CoreNLP)
 
 To clone:
 ```bash
-git clone https://github.com/MarkusRoyikTurner/F25-Group11-ENGG4450-CoreNLP.git
-cd F25-Group11-CoreNLP
+git clone https://github.com/uoguelph-engg4450/uoguelph-F25-Group11-ENGG4450-CoreNLP.git
+cd uoguelph-F25-Group11-ENGG4450-CoreNLP
 ```
 
 > **Note:** This is the official submission repository for **ENGG*4450 Phase 2**.  
